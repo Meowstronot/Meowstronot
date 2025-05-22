@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">👋hii..  I'm Khisan</h3>
+<h3 align="left">👋Hii..  I'm Khisan</h3>
 
 ###
 
