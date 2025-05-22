@@ -48,4 +48,5 @@
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Meowstronot/Meowstronot/output/snake.svg" alt="Snake animation" />
+
 ###
