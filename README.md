@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👋hii..  I'm Khisan</h3>
 
 ###
 
-<p align="left">hii..  I'm Khisan<br><br>- 📚 I'm currently deepening my knowledge in the fields of data and machine learning.<br>- ⚡ I specialize in Excel VBA and was trusted as a Macro Excel Developer at my previous company.<br><br>check my portofolio please.</p>
+<p align="left"><br>- 📚 I'm currently deepening my knowledge in the fields of data and machine learning.<br>- ⚡ I specialize in Excel VBA and was trusted as a Macro Excel Developer at my previous company.<br><br>check my portofolio please.</p>
 
 ###
 
