@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="excel logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40" alt="tableau"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" height="40" alt="looker"  />
 </div>
 
 ###
