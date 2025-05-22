@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">What do you do for a living? <br>I just do my best👋</h1>
+<h1 align="center">What do you do for living? <br>I just do my best👋</h1>
 
 ###
 
