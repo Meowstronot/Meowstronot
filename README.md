@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="40" alt="pandas"  />
   <img width="12" />
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png" height="40" alt="plt"  />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" height="40" alt="plt"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn"  />
   <img width="12" />
